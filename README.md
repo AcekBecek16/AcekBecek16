@@ -1,6 +1,6 @@
 <!-- BLOG-POST-LIST:START --> 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am AcekBecek!
-<img src="https://pbs.twimg.com/profile_banners/1202870482225098753/1672078176/1500x500">
+<img src="https://github.com/AcekBecek16/AcekBecek16/blob/main/banner1.png">
 
 
 ## 🌐 Socials:
