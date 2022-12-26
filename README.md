@@ -1,6 +1,7 @@
 <!-- BLOG-POST-LIST:START --> 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am AcekBecek!
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<img src="https://pbs.twimg.com/profile_banners/1202870482225098753/1672078176/1500x500">
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nur-azis-pakaya-2b857b1a1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/acekbecek182) 
