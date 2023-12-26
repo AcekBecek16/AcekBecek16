@@ -1,6 +1,6 @@
 <!-- BLOG-POST-LIST:START --> 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am AcekBecek!
-<img src="https://github.com/AcekBecek16/AcekBecek16/blob/main/banner1.png">
+<img src="https://github.com/AcekBecek16/AcekBecek16/blob/main/salesforce%20Banner.png">
 
 
 ## 🌐 Socials:
