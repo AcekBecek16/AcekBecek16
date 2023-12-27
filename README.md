@@ -24,12 +24,6 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-### Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Acekbecek16&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-![](https://github-profile-trophy.vercel.app/?username=Acekbecek16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Acekbecek16&icon=2&color=6)](https://visitcount.itsvg.in)
