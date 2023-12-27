@@ -24,7 +24,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
----
+## <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 [![](https://visitcount.itsvg.in/api?id=Acekbecek16&icon=2&color=6)](https://visitcount.itsvg.in)
 
