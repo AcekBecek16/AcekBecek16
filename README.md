@@ -37,8 +37,8 @@ _Proudly scripting Salesforce solutions that bridge the gap between imagination 
 ```php
 milk                          ┌───────────────────────┐             ┌──────────────┐
  ├─working-on                 |         Human         ├── has-a ───→|      Pet     |   |\/| | |_ |(
- │  ├─Moon                    └───────────────────────┘             └──────────────┘         |
- │  └─Cr8s                          ↑              ↑                      ↑   ↑
+ │  └─Alternate-Universe      └───────────────────────┘             └──────────────┘         |
+ │                                  ↑              ↑                      ↑   ↑
  ├─interested-in                    |              |                      |   |           (ᐠ───ᐟ\
  │  └─tech                          |            is-a                     |   |           | ◔_◔|
  │     ├─Ai                         |              |                      |   |           └──--─┘      /ᐠ_ᐟ\_
@@ -67,13 +67,13 @@ milk                          ┌───────────────�
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Acekbecek16&theme=tokyonight&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Acekbecek16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Acekbecek16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ### Inspired and Relaxing
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight) <right>[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31prvs7ewyrollgbzf4cmss4tkcu&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) </right>
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight) <right>[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31prvs7ewyrollgbzf4cmss4tkcu&cover_image=true&theme=novatorem&show_offline=true&background_color=545454&interchange=false&bar_color=4a244c&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31prvs7ewyrollgbzf4cmss4tkcu&redirect=true) </right>
 
 ---
 
