@@ -73,7 +73,9 @@ milk                          ┌───────────────�
 
 ### Inspired and Relaxing
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight) [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31prvs7ewyrollgbzf4cmss4tkcu&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0iWU3lgrK2zu5sGYEzNpXU?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight) [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31prvs7ewyrollgbzf4cmss4tkcu&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0iWU3lgrK2zu5sGYEzNpXU?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" />
 
 ---
 
@@ -81,7 +83,7 @@ milk                          ┌───────────────�
 
 #### Connect With Me
 
-[![Github-Account](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=2D2D2D)](https://github.com/AcekBecek16) [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white&color=2D2D2D)](https://www.salesforce.com/trailblazer/azispakaya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=2D2D2D)](https://linkedin.com/in/nur-azis-pakaya-2b857b1a1) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=2D2D2D)](https://twitter.com/acekbecek182) ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&style=for-the-badge&logoColor=white&color=2D2D2D) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&color=2D2D2D)](https://medium.com/@nurazispakaya16) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)]()
+[![Github-Account](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=2D2D2D)](https://github.com/AcekBecek16) [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white&color=2D2D2D)](https://www.salesforce.com/trailblazer/azispakaya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=2D2D2D)](https://linkedin.com/in/nur-azis-pakaya-2b857b1a1) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=2D2D2D)](https://twitter.com/acekbecek182) ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&style=for-the-badge&logoColor=white&color=2D2D2D) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&color=2D2D2D)](https://medium.com/@nurazispakaya16) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white&color=2D2D2D)]()
 
 ---
 
