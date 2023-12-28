@@ -26,7 +26,7 @@ As a Salesforce Developer, I wield the coding katana to script innovative soluti
 
 _Proudly scripting Salesforce solutions that bridge the gap between imagination and digital reality. Let's forge a new era of CRM excellence together!_
 
-<details>
+<!-- <details> -->
 <summary>Don't Click This Shittt......</a></summary>
 <br/>
 
@@ -68,9 +68,18 @@ milk                          ┌───────────────�
 
 ---
 
+### Project
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=AcekBecek16&repo=SalesforceMaps-LWC&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&hide_border=true)](https://github.com/AcekBecek16/SalesforceMaps-LWC) [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=AcekBecek16&repo=AutoConvertLead&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&hide_border=true)](https://github.com/AcekBecek16/AutoConvertLead)
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=AcekBecek16&repo=NodeJS-2-SFDC&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&hide_border=true)](https://github.com/AcekBecek16/NodeJS-2-SFDC) [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=AcekBecek16&repo=ShortenLinkSalesforce&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&hide_border=true)](https://github.com/AcekBecek16/ShortenLinkSalesforce)=======
+
+
+---
+
 ### Inspired and Relaxing
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight) <right>[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31prvs7ewyrollgbzf4cmss4tkcu&cover_image=true&theme=novatorem&show_offline=true&background_color=545454&interchange=false&bar_color=4a244c&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31prvs7ewyrollgbzf4cmss4tkcu&redirect=true) </right>
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight) [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31prvs7ewyrollgbzf4cmss4tkcu&cover_image=true&theme=novatorem&show_offline=true&background_color=545454&interchange=false&bar_color=4a244c&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31prvs7ewyrollgbzf4cmss4tkcu&redirect=true)
 
 ---
 
