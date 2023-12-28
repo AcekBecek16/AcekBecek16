@@ -26,7 +26,7 @@ As a Salesforce Developer, I wield the coding katana to script innovative soluti
 
 _Proudly scripting Salesforce solutions that bridge the gap between imagination and digital reality. Let's forge a new era of CRM excellence together!_
 
-<details>
+<!-- <details> -->
 <summary>Don't Click This Shittt......</a></summary>
 <br/>
 
@@ -65,6 +65,14 @@ milk                          ┌───────────────�
 
 ![github-Stats](https://github-readme-stats.vercel.app/api?username=Acekbecek16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) ![github-most-l](https://github-readme-stats.vercel.app/api/top-langs/?username=Acekbecek16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![github-Streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=Acekbecek16&theme=tokyonight&hide_border=false)
+
+---
+
+### Project
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=AcekBecek16&repo=SalesforceMaps-LWC&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&hide_border=true)](https://github.com/AcekBecek16/SalesforceMaps-LWC) [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=AcekBecek16&repo=AutoConvertLead&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&hide_border=true)](https://github.com/AcekBecek16/AutoConvertLead)
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=AcekBecek16&repo=NodeJS-2-SFDC&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&hide_border=true)](https://github.com/AcekBecek16/NodeJS-2-SFDC) [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=AcekBecek16&repo=ShortenLinkSalesforce&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&hide_border=true)](https://github.com/AcekBecek16/ShortenLinkSalesforce)
 
 ---
 
