@@ -34,9 +34,11 @@ _Proudly scripting Salesforce solutions that bridge the gap between imagination 
 
 ### GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Acekbecek16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Acekbecek16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Acekbecek16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Acekbecek16&theme=tokyonight&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Acekbecek16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 ### Inspired Quote
 
