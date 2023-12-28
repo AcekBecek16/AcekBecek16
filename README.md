@@ -63,17 +63,14 @@ milk                          ┌───────────────�
 
 ### GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Acekbecek16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Acekbecek16&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Acekbecek16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![github-Stats](https://github-readme-stats.vercel.app/api?username=Acekbecek16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) ![github-most-l](https://github-readme-stats.vercel.app/api/top-langs/?username=Acekbecek16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![github-Streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=Acekbecek16&theme=tokyonight&hide_border=false)
 
 ---
 
 ### Inspired and Relaxing
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight) <right>[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31prvs7ewyrollgbzf4cmss4tkcu&cover_image=true&theme=novatorem&show_offline=true&background_color=545454&interchange=false&bar_color=4a244c&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31prvs7ewyrollgbzf4cmss4tkcu&redirect=true) </right>
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight) [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31prvs7ewyrollgbzf4cmss4tkcu&cover_image=true&theme=novatorem&show_offline=true&background_color=545454&interchange=false&bar_color=4a244c&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31prvs7ewyrollgbzf4cmss4tkcu&redirect=true)
 
 ---
 
