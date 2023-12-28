@@ -26,6 +26,10 @@ As a Salesforce Developer, I wield the coding katana to script innovative soluti
 
 _Proudly scripting Salesforce solutions that bridge the gap between imagination and digital reality. Let's forge a new era of CRM excellence together!_
 
+<details>
+<summary>Click for surprise</a></summary>
+<br/>
+
 ![Playground-Animated](https://github.com/milkshakegum/milkshakegum/blob/main/header.svg)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/milkshakegum/milkshakegum/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
@@ -44,7 +48,7 @@ milk                          ┌───────────────�
  └─learning                         |                                       is-a
     ├─Apex-Specialist               |                                         |                          |
     ├─Salesforce-Architecture ┌─────┴──────────┐                     ┌────────┴────┐              |\/| /-\ |( |
-    │  └─Object-Model         │      Milk      ├───────has-a ───────→│     Cat     │
+    │  └─LWC_Dev              │      Milk      ├───────has-a ───────→│     Cat     │
     └─Flow-Process            └────────────────┘                     └─────────────┘
 
 ```
@@ -69,9 +73,11 @@ milk                          ┌───────────────�
 
 ---
 
+</details>
+
 #### Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nur-azis-pakaya-2b857b1a1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&style=for-the-badge&logoColor=white&color=141617)](https://twitter.com/acekbecek182)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=141617)](https://linkedin.com/in/nur-azis-pakaya-2b857b1a1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&style=for-the-badge&logoColor=white&color=141617)](https://twitter.com/acekbecek182) ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&style=for-the-badge&logoColor=white&color=141617)
 
 ---
 
