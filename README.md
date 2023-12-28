@@ -77,7 +77,8 @@ milk                          ┌───────────────�
 
 #### Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=141617)](https://linkedin.com/in/nur-azis-pakaya-2b857b1a1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&style=for-the-badge&logoColor=white&color=141617)](https://twitter.com/acekbecek182) ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&style=for-the-badge&logoColor=white&color=141617)
+[![Github-Account](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=666666)](https://github.com/AcekBecek16)
+[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white&color=666666)](https://www.salesforce.com/trailblazer/azispakaya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=666666)](https://linkedin.com/in/nur-azis-pakaya-2b857b1a1) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=666666)](https://twitter.com/acekbecek182) ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&style=for-the-badge&logoColor=white&color=666666)
 
 ---
 
