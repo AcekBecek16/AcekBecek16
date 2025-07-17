@@ -4,7 +4,7 @@
 
 _"Salesforce Ninja Coder: Scripting Innovative Solutions to Digital Reality"_
 
-<img src="https://github.com/AcekBecek16/AcekBecek16/blob/main/Salesforce%20-%20Twitter%20Banner.png">
+<img src="[https://github.com/AcekBecek16/AcekBecek16/blob/main/Salesforce%20-%20Twitter%20Banner.png](https://github.com/AcekBecek16/AcekBecek16/blob/main/trailhead-banner-azispakaya.png)">
 
 #### 🛡️ Salesforce Developer: Mastering the Art of Digital Transformation
 
