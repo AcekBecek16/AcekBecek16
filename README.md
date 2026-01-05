@@ -6,43 +6,72 @@
 
 <div align="center">
 
-# 👋 Hi, I’m **AcekBecek**  
-### Salesforce Developer • LWC/Apex • Integrations • Automation • Cloud Builder
+# 👋 Hi, I’m **AcekBecek**
+### Salesforce Developer • Apex/LWC • Integrations • Automation • Scalable CRM Solutions
 
-_Architecting the future, one Salesforce solution at a time._
+_I help teams ship reliable Salesforce solutions — clean architecture, strong performance, and business-first delivery._
 
 <br/>
 
 <!-- quick identity badges -->
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Apex-2E2E2E?style=for-the-badge&logo=codeigniter&logoColor=white" />
+<img src="https://img.shields.io/badge/Apex-14304A?style=for-the-badge&logo=lightning&logoColor=white" />
 <img src="https://img.shields.io/badge/LWC-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111" />
-<img src="https://img.shields.io/badge/Integrations-API%20First-6E56CF?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/API%20Integration-REST%20%7C%20SOAP-6E56CF?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Automation-Flow%20%7C%20Apex-2E2E2E?style=for-the-badge&logo=gitbook&logoColor=white" />
+
+<br/>
+<br/>
+
+<!-- ✅ Option 1: Certifications row -->
+<a href="https://www.salesforce.com/trailblazer/azispakaya">
+  <img src="https://img.shields.io/badge/5x%20Salesforce%20Certified-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+</a>
+<a href="https://www.salesforce.com/trailblazer/azispakaya">
+  <img src="https://img.shields.io/badge/Trailhead-Triple%20Star%20Ranger-6E56CF?style=for-the-badge&logo=salesforce&logoColor=white" />
+</a>
+<a href="https://www.salesforce.com/trailblazer/azispakaya">
+  <img src="https://img.shields.io/badge/Trailblazer-azispakaya-2E2E2E?style=for-the-badge&logo=salesforce&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## ⚡ About Me (short & real)
-I build **scalable Salesforce solutions** that don’t just “work” — they **ship clean, perform fast, and stay maintainable**.  
-My style: **business-first + engineering-grade execution**.
+## 🧩 Professional Summary
+Salesforce Developer focused on **building scalable CRM solutions** with **Apex, Lightning Web Components, and Flow**.  
+Experienced in **system integration**, **data modeling**, and **automation** — delivering maintainable features with measurable impact.
 
-- 🧙‍♂️ **Apex & LWC**: scalable architecture, solid patterns, clean UI
-- 🔗 **Integration**: REST/SOAP, middleware, secure auth, reliable payload design
-- 🧠 **Automation**: Flows + Apex where it makes sense (no overkill, no spaghetti)
-- 🛡️ **Data & Performance**: smart modeling, query optimization, governor-safe logic
-- 🌩️ **Always Learning**: new platform features, AI, and modern DX
+**Core strengths**
+- **Apex & LWC Engineering** — reusable components, solid patterns, governor-safe logic  
+- **Integration & APIs** — REST/SOAP, auth patterns, resilient payload + error handling  
+- **Automation** — Flow-first mindset, Apex when needed (clean + testable)  
+- **Data & Performance** — SOQL optimization, indexing awareness, async processing  
+- **Quality** — test coverage strategy, readable code, pragmatic documentation  
 
 ---
 
-## 🧰 Toolbox (2026 stack)
+## 🏆 Trailhead Snapshot (Auto-updated)
+<!-- ✅ Option 2: Trailhead stats card (auto update via GitHub Action) -->
+<!--TH_Stats:start-->
+<!--TH_Stats:end-->
+
+---
+
+## 🛠 Salesforce Skill Set
+- **Platform:** Sales Cloud • Service Cloud • Experience Cloud (as needed)
+- **Development:** Apex • LWC • SOQL/SOSL • Aura (legacy support)
+- **Automation:** Flow • Validation Rules • Approvals • Orchestrations
+- **Architecture:** Async (Queueable/Batch/Scheduled) • Limits-safe design • Secure coding
+- **Integration:** REST • SOAP • Webhooks • Middleware patterns
+- **Tooling:** SFDX • VS Code • Git • Postman • Jira • CI-friendly workflow
+
+---
+
+## 🧰 Tech Toolbox
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,java,php,cpp,nodejs,react,vue,angular,postgres,mongodb,aws,git,github,figma&perline=8" />
-
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,vue,angular,java,php,postgres,mongodb,aws,git,github,figma&perline=8" />
 </div>
-
-**Also:** Apex • SOQL • Salesforce CLI • Postman • Jira • Heroku
 
 ---
 
@@ -69,7 +98,7 @@ My style: **business-first + engineering-grade execution**.
 
 ---
 
-## 📈 GitHub Snapshot
+## 📊 GitHub Snapshot
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=AcekBecek16&show_icons=true&hide_border=true&bg_color=00000000&title_color=00A1E0&text_color=2f2f2f&icon_color=00A1E0&include_all_commits=true&count_private=true" />
@@ -84,70 +113,8 @@ My style: **business-first + engineering-grade execution**.
 
 ---
 
-## 🤝 Connect With Me
 <div align="center">
-
-<a href="https://github.com/AcekBecek16">
-  <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.salesforce.com/trailblazer/azispakaya">
-  <img src="https://img.shields.io/badge/Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/nur-azis-pakaya-2b857b1a1">
-  <img src="https://img.shields.io/badge/LinkedIn-00A1E0?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/acekbecek182">
-  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-00A1E0?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="https://medium.com/@nurazispakaya16">
-  <img src="https://img.shields.io/badge/Medium-00A1E0?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## 🐶 Sinobhi (optional lore)
-<details>
-  <summary><b>Click to reveal Sinobhi the Salesforce Dog 🐾</b></summary>
-
-  <div align="center">
-
-
-       __
-    o-''|\_____/)
-     \_/|_)     )
-       \  __  /
-       (_/ (_/
-    .-^-.
-  /_/_\_\
- ( o o )   Woof! I'm Sinobhi, the Salesforce Dog!
-  ==_Y_==
- /   ^   \
-~[ Eating Salesforce Clouds ]~
-       ☁️☁️☁️☁️☁️
-     ☁️   SALESFORCE   ☁️
-       ☁️☁️☁️☁️☁️
-
-</div>
-</details>
-
----
-
-## 🎧 Extra (Spotify)
-<details>
-<summary><b>Open my Spotify widget</b></summary>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31prvs7ewyrollgbzf4cmss4tkcu&cover_image=true&theme=novatorem&show_offline=true&background_color=00A1E0&interchange=false&bar_color=4a244c&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31prvs7ewyrollgbzf4cmss4tkcu&redirect=true)
-
-</details>
-
----
-
-<div align="center">
-
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAcekBecek16&label=Profile%20Views&labelColor=%2300A1E0&countColor=%232f2f2f" />
-
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAcekBecek16&label=Profile%20Views&labelColor=%2300A1E0&countColor=%232f2f2f" />
 </div>
 
 <!-- BLOG-POST-LIST:END -->
