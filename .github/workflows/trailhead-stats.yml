@@ -1,0 +1,21 @@
+name: Update Trailhead Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: nabondance/trailhead-stats@v2
+        with:
+          trailhead-username: "azispakaya"
+          display-type: "card"
+          display-file: "README.md"
+          file-format: "md"
