@@ -2,7 +2,7 @@ name: Update Trailhead Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # daily
+    - cron: "0 0 * * *" # daily
   workflow_dispatch:
 
 permissions:
@@ -12,8 +12,11 @@ jobs:
   update-stats:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: nabondance/trailhead-stats@v2
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update Trailhead Stats
+        uses: nabondance/Trailhead-Stats@v2.0.0
         with:
           trailhead-username: "azispakaya"
           display-type: "card"
