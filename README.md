@@ -1,7 +1,7 @@
 <!-- BLOG-POST-LIST:START -->
 
 <h2 align="center">
-  <img src="https://github.com/AcekBecek16/AcekBecek16/blob/main/trailhead-banner-azispakaya.png?raw=true" alt="Trailhead Banner" width="92%">
+  <!-- <img src="https://github.com/AcekBecek16/AcekBecek16/blob/main/trailhead-banner-azispakaya.png?raw=true" alt="Trailhead Banner" width="92%"> -->
 </h2>
 
 <div align="center">
