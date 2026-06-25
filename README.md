@@ -54,9 +54,7 @@ Experienced in **system integration**, **data modeling**, and **automation** —
 ## 🏆 Trailhead Snapshot (Auto-updated)
 <!-- ✅ Option 2: Trailhead stats card (auto update via GitHub Action) -->
 <!--TH_Stats:start-->
-
-![Trailhead-Stats-Light](images/TScard-light.png#gh-light-mode-only)
-![Trailhead-Stats-Dark](images/TScard-dark.png#gh-dark-mode-only)
+undefined
 <!--TH_Stats:end-->
 
 ---
