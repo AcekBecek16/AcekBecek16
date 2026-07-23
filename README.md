@@ -116,6 +116,26 @@ Experienced in **system integration**, **data modeling**, and **automation** —
 
 ---
 
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AcekBecek16&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AcekBecek16/AcekBecek16/output/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AcekBecek16/AcekBecek16/output/dist/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AcekBecek16/AcekBecek16/output/dist/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAcekBecek16&label=Profile%20Views&labelColor=%2300A1E0&countColor=%232f2f2f" />
 </div>
