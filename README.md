@@ -14,25 +14,10 @@ _I help teams ship reliable Salesforce solutions — clean architecture, strong 
 <br/>
 
 <!-- quick identity badges -->
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Apex-14304A?style=for-the-badge&logo=lightning&logoColor=white" />
-<img src="https://img.shields.io/badge/LWC-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111" />
-<img src="https://img.shields.io/badge/API%20Integration-REST%20%7C%20SOAP-6E56CF?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Automation-Flow%20%7C%20Apex-2E2E2E?style=for-the-badge&logo=gitbook&logoColor=white" />
-
-<br/>
-<br/>
-
-<!-- ✅ Option 1: Certifications row -->
-<a href="https://www.salesforce.com/trailblazer/azispakaya">
-  <img src="https://img.shields.io/badge/5x%20Salesforce%20Certified-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-</a>
-<a href="https://www.salesforce.com/trailblazer/azispakaya">
-  <img src="https://img.shields.io/badge/Trailhead-Triple%20Star%20Ranger-6E56CF?style=for-the-badge&logo=salesforce&logoColor=white" />
-</a>
-<a href="https://www.salesforce.com/trailblazer/azispakaya">
-  <img src="https://img.shields.io/badge/Trailblazer-azispakaya-2E2E2E?style=for-the-badge&logo=salesforce&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/Salesforce%20Developer-ea7b6d?style=for-the-badge&logo=salesforce&logoColor=1c1e2e" />
+<img src="https://img.shields.io/badge/Apex%20%26%20LWC-1c1e2e?style=for-the-badge&logo=lightning&logoColor=ea7b6d" />
+<img src="https://img.shields.io/badge/Integrations-ea7b6d?style=for-the-badge&logo=fastapi&logoColor=1c1e2e" />
+<img src="https://img.shields.io/badge/Automation-1c1e2e?style=for-the-badge&logo=gitbook&logoColor=ea7b6d" />
 
 </div>
 
@@ -82,19 +67,16 @@ Experienced in **system integration**, **data modeling**, and **automation** —
 <div align="center">
 
 <a href="https://github.com/AcekBecek16/SalesforceMaps-LWC">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AcekBecek16&repo=SalesforceMaps-LWC&hide_border=true&bg_color=00000000&title_color=00A1E0&text_color=2f2f2f&icon_color=00A1E0" />
+  <img src="https://img.shields.io/badge/SalesforceMaps--LWC-ea7b6d?style=for-the-badge&logo=github&logoColor=1c1e2e" />
 </a>
-
 <a href="https://github.com/AcekBecek16/AutoConvertLead">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AcekBecek16&repo=AutoConvertLead&hide_border=true&bg_color=00000000&title_color=00A1E0&text_color=2f2f2f&icon_color=00A1E0" />
+  <img src="https://img.shields.io/badge/AutoConvertLead-1c1e2e?style=for-the-badge&logo=github&logoColor=ea7b6d" />
 </a>
-
 <a href="https://github.com/AcekBecek16/NodeJS-2-SFDC">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AcekBecek16&repo=NodeJS-2-SFDC&hide_border=true&bg_color=00000000&title_color=00A1E0&text_color=2f2f2f&icon_color=00A1E0" />
+  <img src="https://img.shields.io/badge/NodeJS--2--SFDC-ea7b6d?style=for-the-badge&logo=github&logoColor=1c1e2e" />
 </a>
-
 <a href="https://github.com/AcekBecek16/ShortenLinkSalesforce">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AcekBecek16&repo=ShortenLinkSalesforce&hide_border=true&bg_color=00000000&title_color=00A1E0&text_color=2f2f2f&icon_color=00A1E0" />
+  <img src="https://img.shields.io/badge/ShortenLinkSalesforce-1c1e2e?style=for-the-badge&logo=github&logoColor=ea7b6d" />
 </a>
 
 </div>
@@ -104,13 +86,7 @@ Experienced in **system integration**, **data modeling**, and **automation** —
 ## 📊 GitHub Snapshot
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AcekBecek16&show_icons=true&hide_border=true&bg_color=00000000&title_color=00A1E0&text_color=2f2f2f&icon_color=00A1E0&include_all_commits=true&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcekBecek16&layout=compact&hide_border=true&bg_color=00000000&title_color=00A1E0&text_color=2f2f2f" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AcekBecek16&hide_border=true&background=00000000&ring=00A1E0&fire=00A1E0&currStreakLabel=00A1E0" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AcekBecek16&hide_border=true&background=00000000&ring=ea7b6d&fire=ea7b6d&currStreakLabel=ea7b6d&sideLabels=ea7b6d&sideNums=eceef2&dates=8a8fa6" />
 
 </div>
 
@@ -118,7 +94,7 @@ Experienced in **system integration**, **data modeling**, and **automation** —
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AcekBecek16&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+  <img src="https://github-trophies.vercel.app/?username=AcekBecek16&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </div>
 
 ---
@@ -137,7 +113,7 @@ Experienced in **system integration**, **data modeling**, and **automation** —
 ---
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAcekBecek16&label=Profile%20Views&labelColor=%2300A1E0&countColor=%232f2f2f" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAcekBecek16&label=Profile%20Views&labelColor=%231c1e2e&countColor=%23ea7b6d" />
 </div>
 
 <!-- BLOG-POST-LIST:END -->
